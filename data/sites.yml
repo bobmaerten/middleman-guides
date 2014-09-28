@@ -166,4 +166,6 @@ blogs:
   - url: http://www.ecosio.com/de/blog
   - url: http://apetyt-na-kuchnie.pl
   - url: http://emaxime.com
+  - url: http://bobmaerten.github.io/
+    source: https://github.com/bobmaerten/bobmaerten.fr.git
 
